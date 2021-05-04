@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\USB\Visual Studio\C#\Among Us Cracker\Among Us Cracker\bin\Debug\Among Us Cracker.exe.config
+C:\Users\ADMIN\Desktop\USB\Visual Studio\C#\Among Us Cracker\Among Us Cracker\bin\Debug\Among Us Cracker.exe
+C:\Users\ADMIN\Desktop\USB\Visual Studio\C#\Among Us Cracker\Among Us Cracker\bin\Debug\Among Us Cracker.pdb
+C:\Users\ADMIN\Desktop\USB\Visual Studio\C#\Among Us Cracker\Among Us Cracker\obj\Debug\Among Us Cracker.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\USB\Visual Studio\C#\Among Us Cracker\Among Us Cracker\obj\Debug\Among_Us_Cracker.Inferface.resources
+C:\Users\ADMIN\Desktop\USB\Visual Studio\C#\Among Us Cracker\Among Us Cracker\obj\Debug\Among_Us_Cracker.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\USB\Visual Studio\C#\Among Us Cracker\Among Us Cracker\obj\Debug\Among Us Cracker.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\USB\Visual Studio\C#\Among Us Cracker\Among Us Cracker\obj\Debug\Among Us Cracker.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\USB\Visual Studio\C#\Among Us Cracker\Among Us Cracker\obj\Debug\Among Us Cracker.exe
+C:\Users\ADMIN\Desktop\USB\Visual Studio\C#\Among Us Cracker\Among Us Cracker\obj\Debug\Among Us Cracker.pdb
+C:\Users\ADMIN\Desktop\USB\Visual Studio\C#\Among Us Cracker\Among Us Cracker\bin\Debug\Among Us Cracker.exe.manifest
+C:\Users\ADMIN\Desktop\USB\Visual Studio\C#\Among Us Cracker\Among Us Cracker\bin\Debug\Among Us Cracker.application
+C:\Users\ADMIN\Desktop\USB\Visual Studio\C#\Among Us Cracker\Among Us Cracker\obj\Debug\Among Us Cracker.exe.manifest
+C:\Users\ADMIN\Desktop\USB\Visual Studio\C#\Among Us Cracker\Among Us Cracker\obj\Debug\Among Us Cracker.application
