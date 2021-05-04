@@ -9,6 +9,7 @@ Descarga el archivo aquí: https://github.com/a
 ## Utilización 🚀
 
 _La utilización de este programa es muy sencillo, solo tienes que abrir el programa, seleccionar el nombre que desees que se muestre en el juego y darle al botón de CRACKEAR._
+
 ![Imagen Among Us Cracker](https://i.imgur.com/L3GuM7P.png)
 
 ## Construido con 🛠️
